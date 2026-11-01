@@ -1,2 +1,2 @@
 # orra-vocal-releases
-Installers and release notes for Orra Vocal
+Official installers for Orra Vocal
